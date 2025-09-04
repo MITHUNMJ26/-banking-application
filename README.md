@@ -10,7 +10,7 @@ This project demonstrates creating REST APIs for a basic banking system with CRU
 - Withdraw money from an account
   
 * Technicalities used
-- **Java **
+- Java 
 - **Spring Boot 3**
 - **Spring Data JPA (Hibernate)**
 - **MySQL**
