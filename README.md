@@ -17,4 +17,3 @@ This project demonstrates creating REST APIs for a basic banking system with CRU
 - **Maven**
 - **Lombok**
 
-
